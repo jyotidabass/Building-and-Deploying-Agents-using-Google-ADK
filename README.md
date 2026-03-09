@@ -65,4 +65,4 @@ print_box("Bot", response)
 - **Vertex AI** - Enterprise-grade AI infrastructure
 - **Streamlit** - Interactive web UI
 
-## Workshop by GDG Amity Bengaluru 🎓
+
