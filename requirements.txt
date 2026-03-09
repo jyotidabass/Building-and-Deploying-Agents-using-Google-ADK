@@ -1,0 +1,7 @@
+google-adk
+google-cloud-aiplatform
+python-dotenv
+requests
+pandas
+streamlit
+nest_asyncio
