@@ -1,6 +1,33 @@
 # 🤖 ResumeGuide — Multi-Agent Resume System
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent%20Dev%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-Google%20Cloud-34A853?style=flat-square&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%202.0%20Flash-AI%20Model-EA4335?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 > **Built with Google ADK (Agent Development Kit) + Vertex AI + Gemini 2.0 Flash**
+
+---
+
+## 📖 Read the Full Tutorial
+
+[![Read on Medium](https://img.shields.io/badge/Medium-Read%20Full%20Tutorial-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jyotidabass/building-ai-agents-with-google-adk-6275aaf5155d?sk=3fd9d2ec66fb7353f55b37b799646f3c)
+
+This repo is accompanied by a **complete step-by-step Medium blog** that explains every line of code in simple terms — no prior AI experience needed.
+
+The blog covers:
+- 🤖 What AI agents are and why multi-agent systems beat single agents
+- 🛠️ How `utils.py` works under the hood (auth, sessions, tool calling)
+- 🧩 What tools are and why docstrings matter
+- 🧠 How ADK manages memory automatically via sessions
+- 🛡️ How guardrails are implemented in plain English
+- 📊 How to evaluate agents using LLM-as-a-Judge
+- 🖥️ How the Streamlit app is structured and deployed
+
+> 💡 **Tip:** Read the blog first, then run the notebooks in order for the best learning experience.
+
+---
 
 A hands-on project that teaches you how to build and deploy AI agents. The end result is a smart **Resume Assistant** made of 3 AI agents that help B.Tech students write better resumes — each agent has its own job, its own tools, and its own personality.
 
